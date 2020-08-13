@@ -4,7 +4,7 @@ const dotenv = require('dotenv');
 const fs = require("fs");
 const path = require("path");
 
-dotenv.config();
+//dotenv.config();
 bot.commands = new Discord.Collection();
 bot.queues = new Map();
 
