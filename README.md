@@ -1,3 +1,3 @@
-#Bot-created-to-a-Discord-server
+#Bot created to a Discord server
 
-This-bot-was-created-to-put-music-commands-in-a-discord-server-in-order-to-allow-members-to-listen-music-in-channels
+This bot was created to a Discord server in order to allow members to listen some music in server channels.
