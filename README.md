@@ -35,8 +35,11 @@ Up your bot to server and test the commands in the channels. Also, you can chang
 ## Prerequisites
 
 - Install [Node.js](https://nodejs.org)
+
 - Install [npm](https://www.npmjs.com/)
+
 - Install [discord.js(https://discord.js.org/#/)]
+
 - Be aware to use these libraries: 
     fluent-ffmpeg: https://www.npmjs.com/package/fluent-ffmpeg;
     @discordjs/opus: https://www.npmjs.com/package/@discordjs/opus;
